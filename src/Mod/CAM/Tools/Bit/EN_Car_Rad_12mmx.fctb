@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "EN_Car_Rad_12mmx.fctb",
+  "shape": "12mm_endmill_rad.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "30.00 mm",
+    "Diameter": "12.00 mm",
+    "Flutes": "4",
+    "Length": "80.00 mm",
+    "Material": "Carbide",
+    "ShankDiameter": "12.00 mm",
+    "SpindleDirection": "Forward"
+  },
+  "attribute": {}
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "EN_HSS_Fl_16mmx.fctb",
+  "shape": "16mm_endmill_flat.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "40.00 mm",
+    "Diameter": "16.00 mm",
+    "Flutes": "4",
+    "Length": "90.00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "16.00 mm",
+    "SpindleDirection": "Forward"
+  },
+  "attribute": {}
+}

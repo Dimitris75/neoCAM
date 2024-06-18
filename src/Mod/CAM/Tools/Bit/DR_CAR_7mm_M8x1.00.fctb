@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "DR_CAR_7mm_M8x1.00",
+  "shape": "7mm_drillbit.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "Diameter": "7.00 mm",
+    "Flutes": "2",
+    "Length": "110.00 mm",
+    "Material": "Carbide",
+    "TipAngle": "118.00 \u00b0"
+  },
+  "attribute": {}
+}

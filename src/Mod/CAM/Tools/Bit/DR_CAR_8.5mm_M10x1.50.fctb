@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "DR_CAR_8.5mm_M10x1.50",
+  "shape": "8.50mm_drillbit.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "Diameter": "8.50 mm",
+    "Flutes": "2",
+    "Length": "120.00 mm",
+    "Material": "Carbide",
+    "TipAngle": "118.00 \u00b0"
+  },
+  "attribute": {}
+}

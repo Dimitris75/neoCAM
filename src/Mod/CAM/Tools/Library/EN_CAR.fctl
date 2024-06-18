@@ -1,0 +1,137 @@
+{
+  "tools": [
+    {
+      "nr": 1500,
+      "path": "EN_Car_Fl_1mmx.fctb"
+    },
+    {
+      "nr": 1510,
+      "path": "EN_Car_Fl_2mmx.fctb"
+    },
+    {
+      "nr": 1520,
+      "path": "EN_Car_Fl_3mmx.fctb"
+    },
+    {
+      "nr": 1530,
+      "path": "EN_Car_Fl_4mmx.fctb"
+    },
+    {
+      "nr": 1540,
+      "path": "EN_Car_Fl_5mmx.fctb"
+    },
+    {
+      "nr": 1550,
+      "path": "EN_Car_Fl_6mmx.fctb"
+    },
+    {
+      "nr": 1560,
+      "path": "EN_Car_Fl_8mmx.fctb"
+    },
+    {
+      "nr": 1570,
+      "path": "EN_Car_Fl_10mmx.fctb"
+    },
+    {
+      "nr": 1580,
+      "path": "EN_Car_Fl_12mmx.fctb"
+    },
+    {
+      "nr": 1590,
+      "path": "EN_Car_Fl_14mmx.fctb"
+    },
+    {
+      "nr": 1600,
+      "path": "EN_Car_Fl_16mmx.fctb"
+    },
+    {
+      "nr": 1700,
+      "path": "EN_Car_Rad_1mmx.fctb"
+    },
+    {
+      "nr": 1710,
+      "path": "EN_Car_Rad_2mmx.fctb"
+    },
+    {
+      "nr": 1720,
+      "path": "EN_Car_Rad_3mmx.fctb"
+    },
+    {
+      "nr": 1730,
+      "path": "EN_Car_Rad_4mmx.fctb"
+    },
+    {
+      "nr": 1740,
+      "path": "EN_Car_Rad_5mmx.fctb"
+    },
+    {
+      "nr": 1750,
+      "path": "EN_Car_Rad_6mmx.fctb"
+    },
+    {
+      "nr": 1760,
+      "path": "EN_Car_Rad_8mmx.fctb"
+    },
+    {
+      "nr": 1770,
+      "path": "EN_Car_Rad_10mmx.fctb"
+    },
+    {
+      "nr": 1780,
+      "path": "EN_Car_Rad_12mmx.fctb"
+    },
+    {
+      "nr": 1790,
+      "path": "EN_Car_Rad_14mmx.fctb"
+    },
+    {
+      "nr": 1799,
+      "path": "EN_Car_Rad_16mmx.fctb"
+    },
+    {
+      "nr": 1800,
+      "path": "EN_Car_Ball_1mmx.fctb"
+    },
+    {
+      "nr": 1810,
+      "path": "EN_Car_Ball_2mmx.fctb"
+    },
+    {
+      "nr": 1820,
+      "path": "EN_Car_Ball_3mmx.fctb"
+    },
+    {
+      "nr": 1830,
+      "path": "EN_Car_Ball_4mmx.fctb"
+    },
+    {
+      "nr": 1840,
+      "path": "EN_Car_Ball_5mmx.fctb"
+    },
+    {
+      "nr": 1850,
+      "path": "EN_Car_Ball_6mmx.fctb"
+    },
+    {
+      "nr": 1860,
+      "path": "EN_Car_Ball_8mmx.fctb"
+    },
+    {
+      "nr": 1870,
+      "path": "EN_Car_Ball_10mmx.fctb"
+    },
+    {
+      "nr": 1880,
+      "path": "EN_Car_Ball_12mmx.fctb"
+    },
+    {
+      "nr": 1890,
+      "path": "EN_Car_Ball_14mmx.fctb"
+    },
+    {
+      "nr": 1900,
+      "path": "EN_Car_Ball_16mmx.fctb"
+    }
+  ],
+  "version": 1
+}

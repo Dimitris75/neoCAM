@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "DR_HSS_2.05mm_M2.5x0.45",
+  "shape": "2.05mm_drillbit.fcstd",
+  "parameter": {
+    "Diameter": "2.050 mm",
+    "Length": "50.0000 mm",
+    "TipAngle": "118.0000 \u00b0"
+  },
+  "attribute": {}
+}

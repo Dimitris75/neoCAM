@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "SPOT_Dr_CAR_8mm",
+  "shape": "spot_drill_8mm.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "Diameter": "8.00 mm",
+    "Flutes": "0",
+    "Length": "80.00 mm",
+    "Material": "HSS",
+    "TipAngle": "90.00 \u00b0"
+  },
+  "attribute": {}
+}

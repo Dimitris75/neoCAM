@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "DR_CAR_3.5mm",
+  "shape": "3.50mm_drillbit.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "Diameter": "3.50 mm",
+    "Flutes": "2",
+    "Length": "65.00 mm",
+    "Material": "Carbide",
+    "TipAngle": "118.00 \u00b0"
+  },
+  "attribute": {}
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "DR_HSS_2.5mm_M3x0.50",
+  "shape": "2.50mm_drillbit.fcstd",
+  "parameter": {
+    "Diameter": "2.500 mm",
+    "Length": "55.0000 mm",
+    "TipAngle": "118.0000 \u00b0"
+  },
+  "attribute": {}
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "EN_Car_Fl_16mmx.fctb",
+  "shape": "16mm_endmill_flat.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "40.00 mm",
+    "Diameter": "16.00 mm",
+    "Flutes": "4",
+    "Length": "90.00 mm",
+    "Material": "Carbide",
+    "ShankDiameter": "16.00 mm",
+    "SpindleDirection": "Forward"
+  },
+  "attribute": {}
+}

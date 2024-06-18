@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "DR_HSS_9.8mm",
+  "shape": "9.80mm_drillbit.fcstd",
+  "parameter": {
+    "Diameter": "9.8000 mm",
+    "Length": "125.0000 mm",
+    "TipAngle": "118.0000 \u00b0"
+  },
+  "attribute": {}
+}

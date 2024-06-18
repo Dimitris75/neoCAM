@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "EN_Car_Ball_14mmx.fctb",
+  "shape": "14mm_endmill_ball.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "35.00 mm",
+    "Diameter": "14.00 mm",
+    "Flutes": "4",
+    "Length": "85.00 mm",
+    "Material": "Carbide",
+    "ShankDiameter": "14.00 mm",
+    "SpindleDirection": "Forward"
+  },
+  "attribute": {}
+}

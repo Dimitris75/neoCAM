@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "DR_CAR_12.5mm",
+  "shape": "12.50mm_drillbit.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "Diameter": "12.50 mm",
+    "Flutes": "2",
+    "Length": "150.00 mm",
+    "Material": "Carbide",
+    "TipAngle": "118.00 \u00b0"
+  },
+  "attribute": {}
+}

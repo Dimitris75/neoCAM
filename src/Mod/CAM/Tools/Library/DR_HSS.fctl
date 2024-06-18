@@ -1,0 +1,169 @@
+{
+  "tools": [
+    {
+      "nr": 2102,
+      "path": "DR_HSS_1.25mm_M1.6x0.35.fctb"
+    },
+    {
+      "nr": 2105,
+      "path": "DR_HSS_1.5mm.fctb"
+    },
+    {
+      "nr": 2106,
+      "path": "DR_HSS_1.6mm_M2x0.40.fctb"
+    },
+    {
+      "nr": 2108,
+      "path": "DR_HSS_1.8mm.fctb"
+    },
+    {
+      "nr": 2110,
+      "path": "DR_HSS_2mm.fctb"
+    },
+    {
+      "nr": 2111,
+      "path": "DR_HSS_2.05mm_M2.5x0.45.fctb"
+    },
+    {
+      "nr": 2115,
+      "path": "DR_HSS_2.5mm_M3x0.50.fctb"
+    },
+    {
+      "nr": 2118,
+      "path": "DR_HSS_2.8mm.fctb"
+    },
+    {
+      "nr": 2119,
+      "path": "DR_HSS_2.9mm_M3.5x0.60.fctb"
+    },
+    {
+      "nr": 2120,
+      "path": "DR_HSS_3mm.fctb"
+    },
+    {
+      "nr": 2123,
+      "path": "DR_HSS_3.3mm_M4x0.70.fctb"
+    },
+    {
+      "nr": 2125,
+      "path": "DR_HSS_3.5mm.fctb"
+    },
+    {
+      "nr": 2128,
+      "path": "DR_HSS_3.8mm.fctb"
+    },
+    {
+      "nr": 2130,
+      "path": "DR_HSS_4mm.fctb"
+    },
+    {
+      "nr": 2132,
+      "path": "DR_HSS_4.2mm_M5x0.80.fctb"
+    },
+    {
+      "nr": 2135,
+      "path": "DR_HSS_4.5mm.fctb"
+    },
+    {
+      "nr": 2138,
+      "path": "DR_HSS_4.8mm.fctb"
+    },
+    {
+      "nr": 2140,
+      "path": "DR_HSS_5mm_M6x1.00.fctb"
+    },
+    {
+      "nr": 2145,
+      "path": "DR_HSS_5.5mm.fctb"
+    },
+    {
+      "nr": 2148,
+      "path": "DR_HSS_5.8mm.fctb"
+    },
+    {
+      "nr": 2150,
+      "path": "DR_HSS_6mm.fctb"
+    },
+    {
+      "nr": 2155,
+      "path": "DR_HSS_6.5mm.fctb"
+    },
+    {
+      "nr": 2158,
+      "path": "DR_HSS_6.8mm_M8x1.25.fctb"
+    },
+    {
+      "nr": 2160,
+      "path": "DR_HSS_7mm_M8x1.00.fctb"
+    },
+    {
+      "nr": 2165,
+      "path": "DR_HSS_7.5mm.fctb"
+    },
+    {
+      "nr": 2168,
+      "path": "DR_HSS_7.8mm.fctb"
+    },
+    {
+      "nr": 2170,
+      "path": "DR_HSS_8mm.fctb"
+    },
+    {
+      "nr": 2175,
+      "path": "DR_HSS_8.5mm_M10x1.50.fctb"
+    },
+    {
+      "nr": 2178,
+      "path": "DR_HSS_8.8mm_M10x1.25.fctb"
+    },
+    {
+      "nr": 2180,
+      "path": "DR_HSS_9mm.fctb"
+    },
+    {
+      "nr": 2185,
+      "path": "DR_HSS_9.5mm.fctb"
+    },
+    {
+      "nr": 2188,
+      "path": "DR_HSS_9.8mm.fctb"
+    },
+    {
+      "nr": 2190,
+      "path": "DR_HSS_10mm.fctb"
+    },
+    {
+      "nr": 2192,
+      "path": "DR_HSS_10.2mm_M12x1.75.fctb"
+    },
+    {
+      "nr": 2195,
+      "path": "DR_HSS_10.5mm.fctb"
+    },
+    {
+      "nr": 2198,
+      "path": "DR_HSS_10.8mm_M12x1.25.fctb"
+    },
+    {
+      "nr": 2200,
+      "path": "DR_HSS_11mm.fctb"
+    },
+    {
+      "nr": 2205,
+      "path": "DR_HSS_11.5mm.fctb"
+    },
+    {
+      "nr": 2208,
+      "path": "DR_HSS_11.8mm.fctb"
+    },
+    {
+      "nr": 2210,
+      "path": "DR_HSS_12mm_M14x2.00.fctb"
+    },
+    {
+      "nr": 2215,
+      "path": "DR_HSS_12.5mm.fctb"
+    }
+  ],
+  "version": 1
+}

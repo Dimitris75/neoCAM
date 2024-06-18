@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "EN_HSS_Ball_12mmx-3Fl.fctb",
+  "shape": "12mm_endmill_ball.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "30.00 mm",
+    "Diameter": "12.00 mm",
+    "Flutes": "3",
+    "Length": "80.00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "12.00 mm",
+    "SpindleDirection": "Forward"
+  },
+  "attribute": {}
+}

@@ -1,0 +1,29 @@
+{
+  "tools": [
+    {
+      "nr": 2050,
+      "path": "SPOT_Dr_CAR_3mm.fctb"
+    },
+    {
+      "nr": 2060,
+      "path": "SPOT_Dr_CAR_6mm.fctb"
+    },
+    {
+      "nr": 2070,
+      "path": "SPOT_Dr_CAR_8mm.fctb"
+    },
+    {
+      "nr": 2000,
+      "path": "SPOT_Dr_HSS_3mm.fctb"
+    },
+    {
+      "nr": 2010,
+      "path": "SPOT_Dr_HSS_6mm.fctb"
+    },
+    {
+      "nr": 2020,
+      "path": "SPOT_Dr_HSS_8mm.fctb"
+    }
+  ],
+  "version": 1
+}

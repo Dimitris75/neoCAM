@@ -1,0 +1,373 @@
+{
+  "tools": [
+    {
+      "nr": 1000,
+      "path": "EN_HSS_Fl_1mmx.fctb"
+    },
+    {
+      "nr": 1001,
+      "path": "EN_HSS_Fl_1mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1005,
+      "path": "EN_HSS_Fl_1mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1010,
+      "path": "EN_HSS_Fl_2mmx.fctb"
+    },
+    {
+      "nr": 1011,
+      "path": "EN_HSS_Fl_2mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1015,
+      "path": "EN_HSS_Fl_2mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1020,
+      "path": "EN_HSS_Fl_3mmx.fctb"
+    },
+    {
+      "nr": 1021,
+      "path": "EN_HSS_Fl_3mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1025,
+      "path": "EN_HSS_Fl_3mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1030,
+      "path": "EN_HSS_Fl_4mmx.fctb"
+    },
+    {
+      "nr": 1031,
+      "path": "EN_HSS_Fl_4mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1035,
+      "path": "EN_HSS_Fl_4mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1040,
+      "path": "EN_HSS_Fl_5mmx.fctb"
+    },
+    {
+      "nr": 1041,
+      "path": "EN_HSS_Fl_5mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1045,
+      "path": "EN_HSS_Fl_5mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1050,
+      "path": "EN_HSS_Fl_6mmx.fctb"
+    },
+    {
+      "nr": 1051,
+      "path": "EN_HSS_Fl_6mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1055,
+      "path": "EN_HSS_Fl_6mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1060,
+      "path": "EN_HSS_Fl_8mmx.fctb"
+    },
+    {
+      "nr": 1061,
+      "path": "EN_HSS_Fl_8mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1065,
+      "path": "EN_HSS_Fl_8mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1070,
+      "path": "EN_HSS_Fl_10mmx.fctb"
+    },
+    {
+      "nr": 1071,
+      "path": "EN_HSS_Fl_10mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1075,
+      "path": "EN_HSS_Fl_10mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1080,
+      "path": "EN_HSS_Fl_12mmx.fctb"
+    },
+    {
+      "nr": 1081,
+      "path": "EN_HSS_Fl_12mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1085,
+      "path": "EN_HSS_Fl_12mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1090,
+      "path": "EN_HSS_Fl_14mmx.fctb"
+    },
+    {
+      "nr": 1091,
+      "path": "EN_HSS_Fl_14mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1095,
+      "path": "EN_HSS_Fl_14mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1100,
+      "path": "EN_HSS_Fl_16mmx.fctb"
+    },
+    {
+      "nr": 1101,
+      "path": "EN_HSS_Fl_16mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1105,
+      "path": "EN_HSS_Fl_16mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1201,
+      "path": "EN_HSS_Rad_1mmx.fctb"
+    },
+    {
+      "nr": 1203,
+      "path": "EN_HSS_Rad_1mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1205,
+      "path": "EN_HSS_Rad_1mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1210,
+      "path": "EN_HSS_Rad_2mmx.fctb"
+    },
+    {
+      "nr": 1211,
+      "path": "EN_HSS_Rad_2mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1215,
+      "path": "EN_HSS_Rad_2mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1220,
+      "path": "EN_HSS_Rad_3mmx.fctb"
+    },
+    {
+      "nr": 1221,
+      "path": "EN_HSS_Rad_3mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1225,
+      "path": "EN_HSS_Rad_3mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1230,
+      "path": "EN_HSS_Rad_4mmx.fctb"
+    },
+    {
+      "nr": 1231,
+      "path": "EN_HSS_Rad_4mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1235,
+      "path": "EN_HSS_Rad_4mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1250,
+      "path": "EN_HSS_Rad_6mmx.fctb"
+    },
+    {
+      "nr": 1251,
+      "path": "EN_HSS_Rad_6mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1255,
+      "path": "EN_HSS_Rad_6mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1260,
+      "path": "EN_HSS_Rad_8mmx.fctb"
+    },
+    {
+      "nr": 1261,
+      "path": "EN_HSS_Rad_8mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1265,
+      "path": "EN_HSS_Rad_8mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1270,
+      "path": "EN_HSS_Rad_10mmx.fctb"
+    },
+    {
+      "nr": 1271,
+      "path": "EN_HSS_Rad_10mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1275,
+      "path": "EN_HSS_Rad_10mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1280,
+      "path": "EN_HSS_Rad_12mmx.fctb"
+    },
+    {
+      "nr": 1281,
+      "path": "EN_HSS_Rad_12mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1285,
+      "path": "EN_HSS_Rad_12mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1290,
+      "path": "EN_HSS_Rad_14mmx.fctb"
+    },
+    {
+      "nr": 1291,
+      "path": "EN_HSS_Rad_14mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1295,
+      "path": "EN_HSS_Rad_14mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1300,
+      "path": "EN_HSS_Rad_16mmx.fctb"
+    },
+    {
+      "nr": 1301,
+      "path": "EN_HSS_Rad_16mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1305,
+      "path": "EN_HSS_Rad_16mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1400,
+      "path": "EN_HSS_Ball_1mmx.fctb"
+    },
+    {
+      "nr": 1401,
+      "path": "EN_HSS_Ball_1mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1405,
+      "path": "EN_HSS_Ball_1mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1410,
+      "path": "EN_HSS_Ball_2mmx.fctb"
+    },
+    {
+      "nr": 1420,
+      "path": "EN_HSS_Ball_3mmx.fctb"
+    },
+    {
+      "nr": 1421,
+      "path": "EN_HSS_Ball_3mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1425,
+      "path": "EN_HSS_Ball_3mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1430,
+      "path": "EN_HSS_Ball_4mmx.fctb"
+    },
+    {
+      "nr": 1431,
+      "path": "EN_HSS_Ball_4mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1435,
+      "path": "EN_HSS_Ball_4mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1440,
+      "path": "EN_HSS_Ball_5mmx.fctb"
+    },
+    {
+      "nr": 1441,
+      "path": "EN_HSS_Ball_5mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1445,
+      "path": "EN_HSS_Ball_5mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1450,
+      "path": "EN_HSS_Ball_6mmx.fctb"
+    },
+    {
+      "nr": 1455,
+      "path": "EN_HSS_Ball_6mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1460,
+      "path": "EN_HSS_Ball_8mmx.fctb"
+    },
+    {
+      "nr": 1461,
+      "path": "EN_HSS_Ball_8mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1465,
+      "path": "EN_HSS_Ball_8mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1470,
+      "path": "EN_HSS_Ball_10mmx.fctb"
+    },
+    {
+      "nr": 1471,
+      "path": "EN_HSS_Ball_10mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1475,
+      "path": "EN_HSS_Ball_10mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1480,
+      "path": "EN_HSS_Ball_12mmx.fctb"
+    },
+    {
+      "nr": 1481,
+      "path": "EN_HSS_Ball_12mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1485,
+      "path": "EN_HSS_Ball_12mmx-3Fl.fctb"
+    },
+    {
+      "nr": 1490,
+      "path": "EN_HSS_Ball_14mmx.fctb"
+    },
+    {
+      "nr": 1491,
+      "path": "EN_HSS_Ball_14mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1497,
+      "path": "EN_HSS_Ball_16mmx.fctb"
+    },
+    {
+      "nr": 1498,
+      "path": "EN_HSS_Ball_16mmx-2Fl.fctb"
+    },
+    {
+      "nr": 1499,
+      "path": "EN_HSS_Ball_16mmx-3Fl.fctb"
+    }
+  ],
+  "version": 1
+}

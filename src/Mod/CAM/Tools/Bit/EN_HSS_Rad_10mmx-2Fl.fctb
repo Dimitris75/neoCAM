@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "EN_HSS_Rad_10mmx-2Fl.fctb",
+  "shape": "10mm_endmill_rad.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "25.00 mm",
+    "Diameter": "10.00 mm",
+    "Flutes": "2",
+    "Length": "70.00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "10.00 mm",
+    "SpindleDirection": "Forward"
+  },
+  "attribute": {}
+}

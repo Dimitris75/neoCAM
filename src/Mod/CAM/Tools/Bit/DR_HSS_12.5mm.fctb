@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "DR_HSS_12.5mm",
+  "shape": "12.50mm_drillbit.fcstd",
+  "parameter": {
+    "Diameter": "12.5000 mm",
+    "Length": "150.0000 mm",
+    "TipAngle": "118.0000 \u00b0"
+  },
+  "attribute": {}
+}

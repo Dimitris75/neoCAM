@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "EN_HSS_Rad_3mmx.fctb",
+  "shape": "3mm_endmill_rad.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "10.00 mm",
+    "Diameter": "3.00 mm",
+    "Flutes": "4",
+    "Length": "50.00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "6.00 mm",
+    "SpindleDirection": "Forward"
+  },
+  "attribute": {}
+}

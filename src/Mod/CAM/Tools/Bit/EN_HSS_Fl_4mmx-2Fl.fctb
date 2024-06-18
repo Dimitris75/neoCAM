@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "EN_HSS_Fl_4mmx-2Fl.fctb",
+  "shape": "4mm_endmill_flat.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "10.00 mm",
+    "Diameter": "4.00 mm",
+    "Flutes": "2",
+    "Length": "60.00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "6.00 mm",
+    "SpindleDirection": "Forward"
+  },
+  "attribute": {}
+}

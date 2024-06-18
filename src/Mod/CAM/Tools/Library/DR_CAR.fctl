@@ -1,0 +1,169 @@
+{
+  "tools": [
+    {
+      "nr": 2602,
+      "path": "DR_CAR_1.25mm_M1.6x0.35.fctb"
+    },
+    {
+      "nr": 2605,
+      "path": "DR_CAR_1.5mm.fctb"
+    },
+    {
+      "nr": 2606,
+      "path": "DR_CAR_1.6mm_M2x0.40.fctb"
+    },
+    {
+      "nr": 2608,
+      "path": "DR_CAR_1.8mm.fctb"
+    },
+    {
+      "nr": 2610,
+      "path": "DR_CAR_2mm.fctb"
+    },
+    {
+      "nr": 2611,
+      "path": "DR_CAR_2.05mm_M2.5x0.45.fctb"
+    },
+    {
+      "nr": 2615,
+      "path": "DR_CAR_2.5mm_M3x0.50.fctb"
+    },
+    {
+      "nr": 2618,
+      "path": "DR_CAR_2.8mm.fctb"
+    },
+    {
+      "nr": 2619,
+      "path": "DR_CAR_2.9mm_M3.5x0.60.fctb"
+    },
+    {
+      "nr": 2620,
+      "path": "DR_CAR_3mm.fctb"
+    },
+    {
+      "nr": 2623,
+      "path": "DR_CAR_3.3mm_M4x0.70.fctb"
+    },
+    {
+      "nr": 2625,
+      "path": "DR_CAR_3.5mm.fctb"
+    },
+    {
+      "nr": 2628,
+      "path": "DR_CAR_3.8mm.fctb"
+    },
+    {
+      "nr": 2630,
+      "path": "DR_CAR_4mm.fctb"
+    },
+    {
+      "nr": 2632,
+      "path": "DR_CAR_4.2mm_M5x0.80.fctb"
+    },
+    {
+      "nr": 2635,
+      "path": "DR_CAR_4.5mm.fctb"
+    },
+    {
+      "nr": 2638,
+      "path": "DR_CAR_4.8mm.fctb"
+    },
+    {
+      "nr": 2640,
+      "path": "DR_CAR_5mm_M6x1.00.fctb"
+    },
+    {
+      "nr": 2645,
+      "path": "DR_CAR_5.5mm.fctb"
+    },
+    {
+      "nr": 2648,
+      "path": "DR_CAR_5.8mm.fctb"
+    },
+    {
+      "nr": 2650,
+      "path": "DR_CAR_6mm.fctb"
+    },
+    {
+      "nr": 2655,
+      "path": "DR_CAR_6.5mm.fctb"
+    },
+    {
+      "nr": 2658,
+      "path": "DR_CAR_6.8mm_M8x1.25.fctb"
+    },
+    {
+      "nr": 2660,
+      "path": "DR_CAR_7mm_M8x1.00.fctb"
+    },
+    {
+      "nr": 2665,
+      "path": "DR_CAR_7.5mm.fctb"
+    },
+    {
+      "nr": 2668,
+      "path": "DR_CAR_7.8mm.fctb"
+    },
+    {
+      "nr": 2670,
+      "path": "DR_CAR_8mm.fctb"
+    },
+    {
+      "nr": 2675,
+      "path": "DR_CAR_8.5mm_M10x1.50.fctb"
+    },
+    {
+      "nr": 2678,
+      "path": "DR_CAR_8.8mm_M10x1.25.fctb"
+    },
+    {
+      "nr": 2680,
+      "path": "DR_CAR_9mm.fctb"
+    },
+    {
+      "nr": 2685,
+      "path": "DR_CAR_9.5mm.fctb"
+    },
+    {
+      "nr": 2688,
+      "path": "DR_CAR_9.8mm.fctb"
+    },
+    {
+      "nr": 2690,
+      "path": "DR_CAR_10mm.fctb"
+    },
+    {
+      "nr": 2692,
+      "path": "DR_CAR_10.2mm_M12x1.75.fctb"
+    },
+    {
+      "nr": 2695,
+      "path": "DR_CAR_10.5mm.fctb"
+    },
+    {
+      "nr": 2698,
+      "path": "DR_CAR_10.8mm_M12x1.25.fctb"
+    },
+    {
+      "nr": 2700,
+      "path": "DR_CAR_11mm.fctb"
+    },
+    {
+      "nr": 2705,
+      "path": "DR_CAR_11.5mm.fctb"
+    },
+    {
+      "nr": 2708,
+      "path": "DR_CAR_11.8mm.fctb"
+    },
+    {
+      "nr": 2710,
+      "path": "DR_CAR_12mm_M14x2.00.fctb"
+    },
+    {
+      "nr": 2715,
+      "path": "DR_CAR_12.5mm.fctb"
+    }
+  ],
+  "version": 1
+}

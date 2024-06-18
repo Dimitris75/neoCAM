@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "EN_HSS_Ball_5mmx.fctb",
+  "shape": "5mm_endmill_ball.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "13.00 mm",
+    "Diameter": "5.00 mm",
+    "Flutes": "4",
+    "Length": "55.00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "6.00 mm",
+    "SpindleDirection": "Forward"
+  },
+  "attribute": {}
+}

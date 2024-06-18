@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "EN_Car_Rad_8mmx.fctb",
+  "shape": "8mm_endmill_rad.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "20.00 mm",
+    "Diameter": "8.00 mm",
+    "Flutes": "4",
+    "Length": "60.00 mm",
+    "Material": "Carbide",
+    "ShankDiameter": "8.00 mm",
+    "SpindleDirection": "Forward"
+  },
+  "attribute": {}
+}

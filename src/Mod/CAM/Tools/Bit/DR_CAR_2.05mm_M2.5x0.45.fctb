@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "DR_CAR_2.05mm_M2.5x0.45",
+  "shape": "2.05mm_drillbit.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "Diameter": "2.05 mm",
+    "Flutes": "2",
+    "Length": "50.00 mm",
+    "Material": "Carbide",
+    "TipAngle": "118.00 \u00b0"
+  },
+  "attribute": {}
+}
