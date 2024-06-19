@@ -8,6 +8,7 @@ SET(PreferencePacks_Directories
 "Dark behave"
 "Light theme"
 "Dark theme"
+"Darker"
 )
 
 ADD_CUSTOM_TARGET(PreferencePacks_data ALL
