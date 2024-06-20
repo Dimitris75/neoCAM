@@ -340,15 +340,19 @@ class PathSimulation:
                 r = math.sqrt((cmd.i or 0) ** 2 + (cmd.j or 0) ** 2)
                 n = math.ceil(math.sqrt(r / self.resolution * da * da))
                 da = da / n
-                if hasattr(cmd, "z"):
+                try:
                     dz = (cmd.z - self.curpos.Base.z) / n
+                except:
+                    pass    
                 cmd.Name = "G1"
                 for i in range(n):
                     a0 += da
                     cmd.x = cx + r * math.cos(a0)
                     cmd.y = cy + r * math.sin(a0)
-                    if hasattr(cmd, "z"):
+                    try:
                         cmd.z = self.curpos.Base.z + dz
+                    except:
+                        pass    
                     self.curpos = self.voxSim.ApplyCommand(self.curpos, cmd)
             else:
                 self.curpos = self.voxSim.ApplyCommand(self.curpos, cmd)
