@@ -32,6 +32,7 @@ struct CAreaPocketParams
 		extra_offset = Extra_offset;
 		stepover = Stepover;
 		from_center = From_center;
+		finishing_offset = Finishing_Offset;
 		mode = Mode;
 		zig_angle = Zig_angle;
 		only_cut_first_offset = false;
