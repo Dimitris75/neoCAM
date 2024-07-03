@@ -23,6 +23,7 @@ struct CAreaPocketParams
 	double extra_offset;
 	double stepover;
 	bool from_center;
+	bool finishing_offset;	
 	PocketMode mode;
 	double zig_angle;
 	bool only_cut_first_offset;
