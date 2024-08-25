@@ -60,12 +60,17 @@ class CAMSanity:
 
         # set the filelocation to the parent of the output filename
         if not os.path.isdir(self.filelocation):
-            raise ValueError(
-                translate(
-                    "CAM_Sanity",
-                    "output location {} doesn't exist".format(os.path.dirname(output_file)),
+            if FreeCAD.GuiUp:
+                return
+            else:
+                raise ValueError(
+                    translate(
+                        "CAM_Sanity",
+                        "output location {} doesn't exist".format(
+                            os.path.dirname(output_file)
+                        ),
+                    )           
                 )
-            )
 
         self.image_builder = ImageBuilder.ImageBuilderFactory.get_image_builder(
             self.filelocation
