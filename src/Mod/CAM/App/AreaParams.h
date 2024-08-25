@@ -101,18 +101,18 @@
 #define AREA_PARAMS_POCKET \
     ((enum,mode,PocketMode,0,"Selects the pocket toolpath pattern",\
         (None)(ZigZag)(Offset)(Spiral)(ZigZagOffset)(Line)(Grid)(Triangle)))\
-	((double,tool_radius,ToolRadius,1.0,"Tool radius for pocketing",App::PropertyLength))\
-	((double,extra_offset,PocketExtraOffset,0.0,"Extra offset for pocketing",App::PropertyDistance))\
-	((double,stepover,PocketStepover,0.0,\
+    ((double,tool_radius,ToolRadius,1.0,"Tool radius for pocketing",App::PropertyLength))\
+    ((double,extra_offset,PocketExtraOffset,0.0,"Extra offset for pocketing",App::PropertyDistance))\
+    ((double,stepover,PocketStepover,0.0,\
         "Cutter diameter to step over on each pass. If =0, use ToolRadius.",App::PropertyLength))\
-	((double,last_stepover,PocketLastStepover,0.0,\
+    ((double,last_stepover,PocketLastStepover,0.0,\
         "Cutter diameter to step over for the last loop when using offset pocket.\n"\
         "If =0, use 0.5*ToolRadius.", App::PropertyLength))\
-	((bool,from_center,FromCenter,false,"Start pocketing from center"))\
-	((bool,finishing_offset,UseFinishingOffset,false,"Finishing Offset Pass Only"))\ 	
-	((double,angle,Angle,45,"Pattern angle in degree",App::PropertyAngle))\
-	((double,angle_shift,AngleShift,0.0,"Pattern angle shift for each section", App::PropertyAngle))\
-	((double,shift,Shift,0.0,"Pattern shift distance for each section.\n"\
+    ((bool,from_center,FromCenter,false,"Start pocketing from center"))\
+    ((bool,finishing_offset,UseFinishingOffset,false,"Finishing Offset Pass Only"))\
+    ((double,angle,Angle,45,"Pattern angle in degree",App::PropertyAngle))\
+    ((double,angle_shift,AngleShift,0.0,"Pattern angle shift for each section", App::PropertyAngle))\
+    ((double,shift,Shift,0.0,"Pattern shift distance for each section.\n"\
         "The pocket pattern will be shifted in orthogonal direction by this amount for each section.\n"\
         "This gives a 3D pattern mainly for 3D printing. The shift only applies to 'Offset', 'Grid'\n"\
         "and 'Triangle'", App::PropertyDistance))
